@@ -162,7 +162,7 @@ const App = () => {
               color="inherit"
               target="__blank"
               rel="noopener"
-              href="https://twitter.com/whynot1__"
+              href="https://github.com/jose-donato/expo-notifications-tool"
             >
               <GitHubIcon />
             </Link>
@@ -174,7 +174,7 @@ const App = () => {
               color="inherit"
               target="__blank"
               rel="noopener"
-              href="https://github.com/jose-donato/expo-notifications-tool"
+              href="https://twitter.com/whynot1__"
             >
               <TwitterIcon />
             </Link>
